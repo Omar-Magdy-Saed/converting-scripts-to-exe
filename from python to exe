@@ -1,0 +1,13 @@
+for frist time :
+-------------------------
+
+pip install pyinstaller
+python -m pip uninstall typing
+
+
+usually use this command 
+-------------------------
+.\pyinstaller.exe --onefile 'D:\Autmation\My scripts\Network Service\NetServ-Ed1.4.py'
+
+.\pyinstaller.exe --onefile 'D:\Autmation\My scripts\build a TM\test_TM_1.1.py.py'
+.\pyinstaller.exe --onefile 'D:\Autmation\My scripts\build a TM\TM_2.0.py'
